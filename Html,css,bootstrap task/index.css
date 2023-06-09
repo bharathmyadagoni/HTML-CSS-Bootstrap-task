@@ -1,0 +1,139 @@
+.web_page{
+    height: 70vh;
+    background-size: cover;
+}
+.header{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+    box-shadow: 0px 0.1px black;
+    height: 40px;
+    margin-left: 120px;
+    /* padding: 5px; */
+    
+}
+.sub-con{
+    margin-top: 20px;
+}
+
+.head{
+    font-size: 25px;
+    margin-left: 10px;
+    margin-right: 30px;
+}
+.navlinks{
+    list-style: none;
+
+}
+.navlinks li{
+    display: inline-block;
+    padding: 0px 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.button{
+    float: right;
+    background-color: lightskyblue;
+    border: none;
+    width: 150px;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+
+}
+
+.button-2{
+    border: 1px solid lightseagreen;
+    color:aquamarine;
+    width: 140px;
+    height: 40px;
+    margin: 10px;
+    
+}
+.container{
+    display: grid;
+    grid:100px/auto auto;
+    
+}
+
+.heading{
+    font-size: 30px;
+    /* width: 400px; */
+    /* text-align: center; */
+    /* margin-right: 30px; */
+    /* padding: 30px; */
+    
+}
+.sub-con{
+    margin-left: 50px;
+    padding: 10px 30px 20px 30px;
+    width: 400px;
+}
+.para{
+    font-size: 15px;
+    /* margin-right: 30px;
+    padding: 10px; */
+    margin-top: 20px;
+}
+.h{
+    margin-top: 10px;
+    color: cyan;
+}
+.sub-heading{
+    text-align: center;
+    
+}
+.h1{
+    font-size: 20px;
+    font-weight: bold;
+}
+.im{
+    width: 60px;
+    height: 50px;
+    margin-bottom: 10px;
+    
+}
+.ima{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.image{
+    display: flex;
+    margin: 10px;
+    padding: 15px;
+    margin-left: 40px;
+    justify-content: space-between;
+    
+}
+.p{
+    font-size: 10px;
+    /* margin-right: 20px; */
+    text-align: center;
+}
+.bn{
+    border: 1px solid aquamarine;
+    margin-left: 560px;
+    color: aquamarine;
+}
+.book-image{
+    margin: 60px;
+    padding: 20px;
+
+    
+}
+.last{
+    display: flex;
+    
+}
+.la{
+    margin-bottom: 400px;
+    margin-top: 100px;
+    /* margin-right: 300px; */
+    /* padding-right: 20px; */
+    margin-right: 100px;
+} 
+.pa{
+    font-size: 13px;
+}
